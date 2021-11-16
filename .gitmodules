@@ -1,0 +1,6 @@
+[submodule "GS-frontend"]
+	path = GS-frontend
+	url = https://github.com/cliomaas/GS-frontend
+[submodule "backend-gs"]
+	path = backend-gs
+	url = https://github.com/cliomaas/backend-gs
